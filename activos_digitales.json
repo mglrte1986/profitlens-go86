@@ -1,170 +1,32 @@
 {
-  "metadatos_industria": {
-    "propietario_oficial": "Miguel Rodarte de León",
-    "corporacion": "Rodamaster 86",
-    "sistema_generador": "Gorilla AI System",
-    "derechos_reservados": "© 2026 Rodamaster 86. Todos los derechos reservados. Patente y propiedad intelectual en proceso de registro institucional.",
-    "sitio_oficial": "rodamaster86.xyz",
-    "contacto_legal": "contacto@rodamaster86.xyz"
+  "configuracion": {
+    "margen_rodamaster": 1.20,
+    "moneda": "MXN",
+    "ultima_actualizacion": "2026-06-13T18:00:00-06:00"
   },
-  "productos": [
-    {
-      "id": "PROD-001",
-      "titulo": "Scooter Eléctrico Azul (Activo Físico Rodamaster 86)",
-      "precio": "6500",
-      "categoria_meli": "MLM1276",
-      "descripcion": "Scooter eléctrico color azul, ideal para movilidad urbana eficiente y traslados de alto flujo. Excelente estado físico y operativo. Serializado y validado bajo la infraestructura Rodamaster 86."
-    },
-    {
-      "id": "PROD-002",
-      "titulo": "Servicio de Optimización de Hardware Rodamaster86",
-      "precio": "1200",
-      "categoria_meli": "MLM1540",
-      "descripcion": "Mantenimiento crítico, optimización de sistemas y limpieza profunda de hardware para PCs de escritorio y laptops. Proceso certificado y ejecutado bajo la firma operativa de Rodamaster 86."
-    },
-    {
-      "id": "PROD-003",
-      "titulo": "Moneda de 20 Centavos 1971 Águila Mediana",
-      "precio": "450",
-      "categoria_meli": "MLM1182",
-      "descripcion": "Pieza numismática de colección, 20 centavos mexicanos año 1971, variante Águila Mediana. Conservación óptima para coleccionistas. Catalogado bajo el fondo de activos de Rodamaster 86."
-    },
-    {
-      "id": "PROD-004",
-      "titulo": "PC de Escritorio HP Compaq Refurbished Pro",
-      "precio": "4200",
-      "categoria_meli": "MLM1648",
-      "descripcion": "Arquitectura optimizada en sistema operativo Linux para máximo rendimiento en tareas de automatización, terminales de trabajo y oficina."
-    },
-    {
-      "id": "PROD-005",
-      "titulo": "Módulos de Enfriamiento Extremo Celdas Peltier",
-      "precio": "950",
-      "categoria_meli": "MLM403565",
-      "descripcion": "Kit experimental de refrigeración termoeléctrica con sensores de temperatura integrados para hardware que opera 24/7 en procesos críticos."
-    },
-    {
-      "id": "PROD-006",
-      "titulo": "Fuente de Poder Modificada 16V Estables",
-      "precio": "1650",
-      "categoria_meli": "MLM403570",
-      "descripcion": "Fuente con salida calibrada para proyectos de experimentación electrónica pesada y alimentación de celdas térmicas de alta demanda."
-    }
-  ],
-  "servicios_core": [
-    {
-      "tags": [
-        "video",
-        "plantillas",
-        "premiere",
-        "after",
-        "capcut",
-        "canva",
-        "packs"
-      ],
-      "titulo": "Packs de Video & Plantillas Pro — Propiedad Intelectual Rodamaster 86",
-      "detalles": "Plantillas multimedia optimizadas para Premiere Pro, After Effects, CapCut y Canva, desarrolladas por Gorilla AI System. Todo el material se entrega bajo licencia exclusiva de uso de Rodamaster 86."
-    },
-    {
-      "tags": [
-        "presets",
-        "luts",
-        "audio",
-        "musica",
-        "beats",
-        "branding",
-        "sonido"
-      ],
-      "titulo": "Presets, LUTs & Audio Engineering — Sello Rodamaster 86",
-      "detalles": "Configuración de color profesional y producción de música instrumental/beats a medida para branding. Activos sonoros registrados y protegidos por los derechos de propiedad de la industria."
-    },
-    {
-      "tags": [
-        "automatizacion",
-        "scripts",
-        "flujos",
-        "ia",
-        "contenido",
-        "codigo"
-      ],
-      "titulo": "Automatización de Procesos e IA & Configuración de Terminales",
-      "detalles": "Desarrollo de scripts de producción en masa creados por Gorilla AI System. La arquitectura del código y el despliegue en terminales Linux/WSL son propiedad intelectual registrada de Rodamaster 86."
-    }
-  ],
-  "amazon_referencia": {
-    "actualizado": "2026-06-13T19:51:20.474868",
-    "fuente": "Amazon MX best sellers 2026",
-    "items": [
-      {
-        "categoria": "Ropa casual",
-        "ejemplo": "Playera básica",
-        "precio_amazon": 299
-      },
-      {
-        "categoria": "Tenis y calzado urbano",
-        "ejemplo": "Tenis deportivo",
-        "precio_amazon": 899
-      },
-      {
-        "categoria": "Skincare y maquillaje",
-        "ejemplo": "Parches para acné",
-        "precio_amazon": 199
-      },
-      {
-        "categoria": "Perfumes y fragancias",
-        "ejemplo": "Perfume 100ml",
-        "precio_amazon": 749
-      },
-      {
-        "categoria": "Accesorios moda y joyería",
-        "ejemplo": "Pulsera acero",
-        "precio_amazon": 159
-      },
-      {
-        "categoria": "Snacks y alimentos instantáneos",
-        "ejemplo": "Proteína suero",
-        "precio_amazon": 649
-      },
-      {
-        "categoria": "Celulares, fundas y accesorios",
-        "ejemplo": "Funda Samsung A17",
-        "precio_amazon": 249
-      },
-      {
-        "categoria": "Freidoras de aire y cocina",
-        "ejemplo": "Freidora 4L",
-        "precio_amazon": 1899
-      },
-      {
-        "categoria": "Limpieza y hogar",
-        "ejemplo": "Jabón multiusos",
-        "precio_amazon": 129
-      },
-      {
-        "categoria": "Organización y decoración",
-        "ejemplo": "Vaso aislante",
-        "precio_amazon": 349
-      },
-      {
-        "categoria": "Productos mascotas",
-        "ejemplo": "Alimento perro 5kg",
-        "precio_amazon": 589
-      },
-      {
-        "categoria": "Artículos para entrenar",
-        "ejemplo": "Mancuernas 5kg",
-        "precio_amazon": 499
-      },
-      {
-        "categoria": "Farmacéuticos y salud",
-        "ejemplo": "Vitaminas",
-        "precio_amazon": 279
-      },
-      {
-        "categoria": "Electrónica",
-        "ejemplo": "Protector sobretensiones",
-        "precio_amazon": 399
-      }
-    ]
-  }
+  "amazon_referencia": [
+    {"asin": "B0C7QYXW4Z", "titulo": "Freidora de Aire Ninja 4L AF101", "precio": 1899.00},
+    {"asin": "B0BSHF7LLL", "titulo": "Tenis Adidas Runfalcon 3.0", "precio": 899.00},
+    {"asin": "B09JQTHK3Q", "titulo": "Apple AirPods 2da Gen", "precio": 2499.00},
+    {"asin": "B0C8V2ZLM9", "titulo": "Samsung Galaxy A17 128GB", "precio": 3299.00},
+    {"asin": "B0B7V8ZP1Q", "titulo": "Proteína Whey Gold Standard 5lb", "precio": 1349.00},
+    {"asin": "B08R8Z6M3K", "titulo": "Regulador de Voltaje Koblenz 2000W", "precio": 399.00},
+    {"asin": "B0CHWQM8T4", "titulo": "Taladro Inalámbrico DeWalt 20V", "precio": 2199.00},
+    {"asin": "B07PGL2ZSL", "titulo": "Kit Herramientas Truper 100pz", "precio": 749.00},
+    {"asin": "B09V3HN1LK", "titulo": "Monitor Samsung 24\" FHD 75Hz", "precio": 2599.00},
+    {"asin": "B0B4RP2X7P", "titulo": "SSD Kingston NV2 1TB M.2", "precio": 999.00},
+    {"asin": "B08C7KG5LP", "titulo": "Multímetro Digital Steren", "precio": 289.00},
+    {"asin": "B0C5V8RK2Z", "titulo": "Laptop HP 15.6\" Ryzen 5 8GB 512GB", "precio": 10999.00},
+    {"asin": "B09TW1KKWD", "titulo": "Silla Gamer Xtech Ergonomica", "precio": 2199.00},
+    {"asin": "B0B1VQXR4M", "titulo": "Parches Hidrocoloides Anti-Acné 36pzs", "precio": 199.00},
+    {"asin": "B08KTZ8249", "titulo": "Vaso Térmico Stanley 30oz", "precio": 749.00},
+    {"asin": "B0C9Q8L7MD", "titulo": "Esmeriladora Angular Makita 4-1/2\"", "precio": 1149.00},
+    {"asin": "B07FQ4Q7MB", "titulo": "Cautín Soldador Truper 60W", "precio": 159.00},
+    {"asin": "B0BZ8C2X2N", "titulo": "Router TP-Link Archer AX55 WiFi 6", "precio": 1799.00},
+    {"asin": "B0CH5X7Y9Z", "titulo": "Smartwatch Amazfit GTR 4", "precio": 2999.00},
+    {"asin": "B08L5M9N3P", "titulo": "Impresora Epson EcoTank L3250", "precio": 4199.00},
+    {"asin": "B0BZN8V6T3", "titulo": "Power Bank Anker 20000mAh", "precio": 699.00},
+    {"asin": "B09P4Q7R8S", "titulo": "Audífonos Sony WH-CH520", "precio": 899.00},
+    {"asin": "B0C6K9M2L4", "titulo": "Cámara Wyze Cam v3 1080p", "precio": 649.00}
+  ]
 }
