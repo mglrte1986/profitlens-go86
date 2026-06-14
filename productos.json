@@ -1,0 +1,8 @@
+[
+    {
+        "nombre": "Ejemplo Producto Alta Rotacion",
+        "precio_venta": "0.00",
+        "enlace_imagen": "/ruta/a/la/imagen.jpg",
+        "descripcion": "Escribe aquí las especificaciones del artículo."
+    }
+]
