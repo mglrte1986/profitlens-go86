@@ -53,19 +53,118 @@
   ],
   "servicios_core": [
     {
-      "tags": ["video", "plantillas", "premiere", "after", "capcut", "canva", "packs"],
+      "tags": [
+        "video",
+        "plantillas",
+        "premiere",
+        "after",
+        "capcut",
+        "canva",
+        "packs"
+      ],
       "titulo": "Packs de Video & Plantillas Pro — Propiedad Intelectual Rodamaster 86",
       "detalles": "Plantillas multimedia optimizadas para Premiere Pro, After Effects, CapCut y Canva, desarrolladas por Gorilla AI System. Todo el material se entrega bajo licencia exclusiva de uso de Rodamaster 86."
     },
     {
-      "tags": ["presets", "luts", "audio", "musica", "beats", "branding", "sonido"],
+      "tags": [
+        "presets",
+        "luts",
+        "audio",
+        "musica",
+        "beats",
+        "branding",
+        "sonido"
+      ],
       "titulo": "Presets, LUTs & Audio Engineering — Sello Rodamaster 86",
       "detalles": "Configuración de color profesional y producción de música instrumental/beats a medida para branding. Activos sonoros registrados y protegidos por los derechos de propiedad de la industria."
     },
     {
-      "tags": ["automatizacion", "scripts", "flujos", "ia", "contenido", "codigo"],
+      "tags": [
+        "automatizacion",
+        "scripts",
+        "flujos",
+        "ia",
+        "contenido",
+        "codigo"
+      ],
       "titulo": "Automatización de Procesos e IA & Configuración de Terminales",
       "detalles": "Desarrollo de scripts de producción en masa creados por Gorilla AI System. La arquitectura del código y el despliegue en terminales Linux/WSL son propiedad intelectual registrada de Rodamaster 86."
     }
-  ]
+  ],
+  "amazon_referencia": {
+    "actualizado": "2026-06-13T19:51:20.474868",
+    "fuente": "Amazon MX best sellers 2026",
+    "items": [
+      {
+        "categoria": "Ropa casual",
+        "ejemplo": "Playera básica",
+        "precio_amazon": 299
+      },
+      {
+        "categoria": "Tenis y calzado urbano",
+        "ejemplo": "Tenis deportivo",
+        "precio_amazon": 899
+      },
+      {
+        "categoria": "Skincare y maquillaje",
+        "ejemplo": "Parches para acné",
+        "precio_amazon": 199
+      },
+      {
+        "categoria": "Perfumes y fragancias",
+        "ejemplo": "Perfume 100ml",
+        "precio_amazon": 749
+      },
+      {
+        "categoria": "Accesorios moda y joyería",
+        "ejemplo": "Pulsera acero",
+        "precio_amazon": 159
+      },
+      {
+        "categoria": "Snacks y alimentos instantáneos",
+        "ejemplo": "Proteína suero",
+        "precio_amazon": 649
+      },
+      {
+        "categoria": "Celulares, fundas y accesorios",
+        "ejemplo": "Funda Samsung A17",
+        "precio_amazon": 249
+      },
+      {
+        "categoria": "Freidoras de aire y cocina",
+        "ejemplo": "Freidora 4L",
+        "precio_amazon": 1899
+      },
+      {
+        "categoria": "Limpieza y hogar",
+        "ejemplo": "Jabón multiusos",
+        "precio_amazon": 129
+      },
+      {
+        "categoria": "Organización y decoración",
+        "ejemplo": "Vaso aislante",
+        "precio_amazon": 349
+      },
+      {
+        "categoria": "Productos mascotas",
+        "ejemplo": "Alimento perro 5kg",
+        "precio_amazon": 589
+      },
+      {
+        "categoria": "Artículos para entrenar",
+        "ejemplo": "Mancuernas 5kg",
+        "precio_amazon": 499
+      },
+      {
+        "categoria": "Farmacéuticos y salud",
+        "ejemplo": "Vitaminas",
+        "precio_amazon": 279
+      },
+      {
+        "categoria": "Electrónica",
+        "ejemplo": "Protector sobretensiones",
+        "precio_amazon": 399
+      }
+    ]
+  }
 }
