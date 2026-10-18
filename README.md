@@ -30,7 +30,12 @@ Profit-Lens GO86 es un ecosistema automatizado en Python diseñado para escanear
 
 Obtén acceso a las alertas en tiempo real, scripts de producción y guías de configuración:
 
-[![Apóyame en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/)
+[![Apóyame en Ko-fi](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/miguelrodartedeleon)
+
+### 💳 Suscripción Oficial
+Suscríbete al sistema y accede a las alertas en tiempo real:
+
+[![Suscribirme con Stripe](https://img.shields.io/badge/Suscribirse-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/dRm8wOb7Q0KI9dtbLR3Ru01)
 
 ---
 © 2026 Rodamaster86. Todos los derechos reservados.
